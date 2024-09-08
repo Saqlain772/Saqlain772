@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Saqlain772
+- I’m Muhammad Saqlain, a recent graduate with a Master's in Applied Physics from the University of Karachi, specializing in electronics. I'm passionate about diving deeper into the fields of electronics technology and data science.
+- 👀 I’m interested in ...
+- Electronics, data science, and automation projects. I enjoy working on innovative tech solutions that can contribute to advancements in these fields.
+- 🌱 I’m currently learning ...
+- Enhancing my skills in data science using tools like Tableau and MySQL, and further honing my expertise in programming languages such as Python, C++, and MATLAB.
+- 💞️ I’m looking to collaborate on ...
+- Electronics projects, especially those involving embedded systems or automation, as well as data science initiatives like data visualization or analytics using Tableau.
+- 📫 How to reach me ...
+- You can contact me via email at muhammad.caklain772@gmail.com or on my phone at 0316-4133772.
+- 😄 Pronouns: ...
+- He/Him
+- ⚡ Fun fact: ...
+- I’ve built a dual-axis solar tracker and an Arduino-based robotic arm during my academic journey!
+
+<!---
+Saqlain772/Saqlain772 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
